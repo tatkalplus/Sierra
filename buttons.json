@@ -2,6 +2,6 @@
    "WebLogin": true,
    "login_type_app":"APP",
    "login_type": "WEB",
-   "button6_text": "APP2",
+   "button6_text": "WEB2",
    "AppLogin_text": "APP"
 }
