@@ -2,6 +2,7 @@
   "offline_mode": false,
   "replace": "Ranger|Gadar|Nexus|Superman",
   "replacewith": "Sierra",
+   "tokenpopup": "Ranger"
   "primary": "https://plusvalidation.in/validate/user.php",
   "backup1": "https://pluspanel.online/validate/user.php",
   "backup2": "https://pluspanel.online/validate/user.php",
