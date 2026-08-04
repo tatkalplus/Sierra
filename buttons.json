@@ -1,7 +1,7 @@
 {
    "WebLogin": true,
-   "login_type_app":"APP2",
-   "login_type": "WEB4",
+   "login_type_app":"APP",
+   "login_type": "WEB",
    "button6_text": "APP2",
    "AppLogin_text": "APP"
 }
