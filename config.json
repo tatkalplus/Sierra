@@ -1,5 +1,5 @@
 {
-  "offline_mode": false,
+  "offline_mode": true,
   "replace": "Ranger|Gadar|Nexus|Superman",
   "replacewith": "Sierra",
    "tokenpopup": "Ranger",
