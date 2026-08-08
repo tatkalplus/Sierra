@@ -2,7 +2,7 @@
   "offline_mode": true,
   "replace": "Ranger|Gadar|Nexus|Superman",
   "replacewith": "Sierra",
-   "tokenpopup": "Ranger",
+   "tokenpopup": "SUPERMAN",
   "primary": "https://plusvalidation.in/validate/user.php",
   "backup1": "https://pluspanel.online/validate/user.php",
   "backup2": "https://pluspanel.online/validate/user.php",
@@ -15,7 +15,7 @@
   "token_api2": "https://pluspanel.online/validate/get_tokens.php",
   "updater_Zip": "https://pub-4c700f479f1e4fb9a38d779008d00895.r2.dev/Sierra.zip",
   "cache_directory":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
-  "cache_directory2":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
+  "cache_directory2":"%APPDATA%\\MyAppDataNews",
   "requestUrl1": "https://raw.githubusercontent.com/rangerdev772/ranger/main/updatedata.txt",
   "requestUrl2": "https://raw.githubusercontent.com/rangerdev772/ranger/refs/heads/main/UpdateRangerdata.txt" 
 }
