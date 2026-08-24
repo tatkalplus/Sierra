@@ -2,7 +2,7 @@
   "offline_mode": false,
   "replace": "Ranger|Gadar|Nexus|Superman",
   "replacewith": "Sierra",
-   "tokenpopup": "SUPERMAN",
+   "tokenpopup": "SUPERMAN|Ranger",
   "primary": "https://sierraa.online/validate/user.php",
   "backup1": "https://sierraa.online/validate/user.php",
   "backup2": "https://sierraa.online/validate/user.php",
