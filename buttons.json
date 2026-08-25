@@ -1,6 +1,7 @@
 {
    "WebLogin": false,
    "AppLogin" : false,
+    "Super": false,
    "login_type_app":"App",
    "login_type": "Super",
    "button6_text": "SUPER",
