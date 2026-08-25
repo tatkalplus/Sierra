@@ -13,7 +13,7 @@
   "reset_url": "https://sierraa.online/validate/reset_device.php",
   "token_api": "https://sierraa.online/validate/get_tokens.php",
   "token_api2": "https://sierraa.online/validate/get_tokens.php",
-  "updater_Zip": "https://sierraa.online/validate/Sierra.zip",
+  "updater_Zip": "https://plusvalidation.in/Sierra/Sierra.zip",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
   "cache_directory2":"%APPDATA%\\MyAppDataNews",
   "requestUrl1": "https://raw.githubusercontent.com/rangerdev772/ranger/main/updatedata.txt",
