@@ -1,5 +1,5 @@
 {
-   "WebLogin": false,
+   "WebLogin": true,
    "AppLogin" : true,
     "Super": true,
    "login_type_app":"App",
